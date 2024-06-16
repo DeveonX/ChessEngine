@@ -20,4 +20,4 @@ Contributions are welcome! If you have an idea for improving the engine, feel fr
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
+This project is licensed under the MIT License
