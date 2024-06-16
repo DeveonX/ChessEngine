@@ -15,12 +15,7 @@ While this engine is fully functional, it's not the most performant or advanced 
 - **Learning from real-world games**: Currently, the engine only learns by playing against itself. It could potentially improve much faster if it could also learn from real-world games played by strong players.
 - **Evaluation function**: The engine's evaluation function is currently quite simple, taking into account only the material count and the output of a neural network. This could be made more sophisticated by considering other factors, such as piece mobility, king safety, pawn structure, etc.
 
-## Getting Started
-
-To run the engine, simply clone this repository and run `python main.py`.
-
 ## Contributing
-
 Contributions are welcome! If you have an idea for improving the engine, feel free to fork this repository and submit a pull request.
 
 ## License
